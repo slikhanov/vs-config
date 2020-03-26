@@ -1,4 +1,7 @@
+42Crunch.vscode-openapi
 arcticicestudio.nord-visual-studio-code
+Arjun.swagger-viewer
+aster.vscode-subtitles
 eamodio.gitlens
 GitHub.vscode-pull-request-github
 humao.rest-client
@@ -9,6 +12,8 @@ merithayan.polar
 ms-azuretools.vscode-docker
 ms-vscode.cpptools
 ms-vscode.powershell
+pepri.subtitles-editor
 PKief.material-icon-theme
+redhat.vscode-yaml
 slevesque.perforce
 vscodevim.vim
